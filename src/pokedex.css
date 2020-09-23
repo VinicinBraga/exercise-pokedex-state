@@ -1,4 +1,4 @@
-..pokedex {
+.pokedex {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -23,7 +23,7 @@
 
 .filter-button {
   width: 80px;
-  height: 50px;
+  height: 60px;
   margin: 10px;
   background-color: orange;
 }
